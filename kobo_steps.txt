@@ -1,0 +1,23 @@
+trying again, to see if this process can be made easier with KoBoToolbox.
+
+-install virtualbox and vagrant
+- clone https://github.com/kobotoolbox/dist-kobo-devel
+
+in directory, "vagrant up". it gets the ubuntu/trusty32 box for virtualbox.
+
+i'm downloading it via safari so that i can resume the (inevitably failed) download. just a helpful tip in case you're in-country
+
+https://cloud-images.ubuntu.com/vagrant/trusty/current/trusty-server-cloudimg-i386-vagrant-disk1.box
+
+I moved it to ~ and ran
+export VM_BOX="file://~/trusty-server-cloudimg-i386-vagrant-disk1.box"
+
+i had to replace the nameserver in resolv.conf with 8.8.8.8 <- that wasted some time for sure.
+
+i ran "vagrant ssh" then "~/scripts/00_vagrant_up.sh". I gave the password as "vagrant" which seemed to work...
+
+needed to set the password for the postgres user after postgres was installed. ran "sudo -u postgres psql postgres" then "\password postgres" and set it "vagrant"
+
+oops no had to change that line in the script to use sudo with -u postgres and -i
+
+it takes a lot of runs. but eventually? maybe? yup. need to use "kobo/kobo" at the django web interface (address/admin/) to add new users. seems to work after that!
