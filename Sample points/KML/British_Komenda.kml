@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="British_Komenda" id="British_Komenda">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>British_Komenda</name>
+  <Placemark>
+	<name>1</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.492706277</SimpleData>
+		<SimpleData name="Latitude">5.050452154</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.492706277,5.050452154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.48965582</SimpleData>
+		<SimpleData name="Latitude">5.052077163</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.48965582,5.052077163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488054139</SimpleData>
+		<SimpleData name="Latitude">5.052232211</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488054139,5.052232211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.49224507</SimpleData>
+		<SimpleData name="Latitude">5.04874938</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.49224507,5.04874938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.489336482</SimpleData>
+		<SimpleData name="Latitude">5.051473257</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.489336482,5.051473257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488806561</SimpleData>
+		<SimpleData name="Latitude">5.050120414</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488806561,5.050120414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488101279</SimpleData>
+		<SimpleData name="Latitude">5.052838452</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488101279,5.052838452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.489631479</SimpleData>
+		<SimpleData name="Latitude">5.051883373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.489631479,5.051883373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488544826</SimpleData>
+		<SimpleData name="Latitude">5.051161243</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488544826,5.051161243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488889566</SimpleData>
+		<SimpleData name="Latitude">5.050457277</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488889566,5.050457277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.492320963</SimpleData>
+		<SimpleData name="Latitude">5.049789687</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.492320963,5.049789687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488718627</SimpleData>
+		<SimpleData name="Latitude">5.049868865</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488718627,5.049868865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.492493148</SimpleData>
+		<SimpleData name="Latitude">5.049420183</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.492493148,5.049420183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.491390875</SimpleData>
+		<SimpleData name="Latitude">5.049762536</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.491390875,5.049762536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.494469726</SimpleData>
+		<SimpleData name="Latitude">5.048358535</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.494469726,5.048358535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.490060216</SimpleData>
+		<SimpleData name="Latitude">5.050053725</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.490060216,5.050053725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488520391</SimpleData>
+		<SimpleData name="Latitude">5.051810184</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488520391,5.051810184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.48931029</SimpleData>
+		<SimpleData name="Latitude">5.052303152</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.48931029,5.052303152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488686141</SimpleData>
+		<SimpleData name="Latitude">5.05297773</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488686141,5.05297773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.494471268</SimpleData>
+		<SimpleData name="Latitude">5.049373565</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.494471268,5.049373565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488982613</SimpleData>
+		<SimpleData name="Latitude">5.050122314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488982613,5.050122314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.492893128</SimpleData>
+		<SimpleData name="Latitude">5.049994624</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.492893128,5.049994624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488850477</SimpleData>
+		<SimpleData name="Latitude">5.050817161</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488850477,5.050817161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488081032</SimpleData>
+		<SimpleData name="Latitude">5.050469215</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488081032,5.050469215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.491549227</SimpleData>
+		<SimpleData name="Latitude">5.050301634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.491549227,5.050301634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488862929</SimpleData>
+		<SimpleData name="Latitude">5.051112235</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488862929,5.051112235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488467011</SimpleData>
+		<SimpleData name="Latitude">5.054034463</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488467011,5.054034463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.491138332</SimpleData>
+		<SimpleData name="Latitude">5.050601192</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.491138332,5.050601192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.489865311</SimpleData>
+		<SimpleData name="Latitude">5.049436966</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.489865311,5.049436966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.493632717</SimpleData>
+		<SimpleData name="Latitude">5.049041738</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.493632717,5.049041738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.491472992</SimpleData>
+		<SimpleData name="Latitude">5.049884194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.491472992,5.049884194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.493498859</SimpleData>
+		<SimpleData name="Latitude">5.050078547</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.493498859,5.050078547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.487933916</SimpleData>
+		<SimpleData name="Latitude">5.052362522</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.487933916,5.052362522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488418704</SimpleData>
+		<SimpleData name="Latitude">5.052561288</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488418704,5.052561288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.489840394</SimpleData>
+		<SimpleData name="Latitude">5.051153537</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.489840394,5.051153537</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.489102263</SimpleData>
+		<SimpleData name="Latitude">5.054088896</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.489102263,5.054088896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.489260502</SimpleData>
+		<SimpleData name="Latitude">5.05149084</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.489260502,5.05149084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488143247</SimpleData>
+		<SimpleData name="Latitude">5.051473718</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488143247,5.051473718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.491885172</SimpleData>
+		<SimpleData name="Latitude">5.049665104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.491885172,5.049665104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.49214482</SimpleData>
+		<SimpleData name="Latitude">5.049558845</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.49214482,5.049558845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.489080537</SimpleData>
+		<SimpleData name="Latitude">5.050245969</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.489080537,5.050245969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.490029494</SimpleData>
+		<SimpleData name="Latitude">5.049146908</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.490029494,5.049146908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488397232</SimpleData>
+		<SimpleData name="Latitude">5.052908171</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488397232,5.052908171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488595344</SimpleData>
+		<SimpleData name="Latitude">5.052436604</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488595344,5.052436604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>45</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.492040322</SimpleData>
+		<SimpleData name="Latitude">5.048845483</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.492040322,5.048845483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>46</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.491674607</SimpleData>
+		<SimpleData name="Latitude">5.049710612</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.491674607,5.049710612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.487604438</SimpleData>
+		<SimpleData name="Latitude">5.053407479</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.487604438,5.053407479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>48</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488590624</SimpleData>
+		<SimpleData name="Latitude">5.052946451</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488590624,5.052946451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.490810989</SimpleData>
+		<SimpleData name="Latitude">5.050637194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.490810989,5.050637194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>50</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.489773622</SimpleData>
+		<SimpleData name="Latitude">5.049449426</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.489773622,5.049449426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488625</SimpleData>
+		<SimpleData name="Latitude">5.051452919</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488625,5.051452919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.490675012</SimpleData>
+		<SimpleData name="Latitude">5.049991494</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.490675012,5.049991494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>53</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.492670272</SimpleData>
+		<SimpleData name="Latitude">5.048702036</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.492670272,5.048702036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>54</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.49219908</SimpleData>
+		<SimpleData name="Latitude">5.048962399</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.49219908,5.048962399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>55</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.489251711</SimpleData>
+		<SimpleData name="Latitude">5.051915411</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.489251711,5.051915411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>56</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.489275108</SimpleData>
+		<SimpleData name="Latitude">5.051876784</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.489275108,5.051876784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.49202746</SimpleData>
+		<SimpleData name="Latitude">5.048971993</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.49202746,5.048971993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>58</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.491689461</SimpleData>
+		<SimpleData name="Latitude">5.050218339</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.491689461,5.050218339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>59</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.492978801</SimpleData>
+		<SimpleData name="Latitude">5.049992343</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.492978801,5.049992343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>60</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.492069659</SimpleData>
+		<SimpleData name="Latitude">5.049613353</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.492069659,5.049613353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>61</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.489527983</SimpleData>
+		<SimpleData name="Latitude">5.050183935</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.489527983,5.050183935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>62</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.491809437</SimpleData>
+		<SimpleData name="Latitude">5.049339864</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.491809437,5.049339864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>63</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.492745415</SimpleData>
+		<SimpleData name="Latitude">5.050220584</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.492745415,5.050220584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>64</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.492408683</SimpleData>
+		<SimpleData name="Latitude">5.048908537</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.492408683,5.048908537</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>65</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.49367156</SimpleData>
+		<SimpleData name="Latitude">5.048562549</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.49367156,5.048562549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>66</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.49433441</SimpleData>
+		<SimpleData name="Latitude">5.049290245</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.49433441,5.049290245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>67</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488146662</SimpleData>
+		<SimpleData name="Latitude">5.052574245</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488146662,5.052574245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>68</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.490546934</SimpleData>
+		<SimpleData name="Latitude">5.050803191</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.490546934,5.050803191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>69</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.492236848</SimpleData>
+		<SimpleData name="Latitude">5.050125059</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.492236848,5.050125059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>70</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.49351453</SimpleData>
+		<SimpleData name="Latitude">5.049068252</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.49351453,5.049068252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>71</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.489870121</SimpleData>
+		<SimpleData name="Latitude">5.049868779</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.489870121,5.049868779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488675899</SimpleData>
+		<SimpleData name="Latitude">5.052216814</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488675899,5.052216814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>73</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.493874827</SimpleData>
+		<SimpleData name="Latitude">5.048815521</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.493874827,5.048815521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>74</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.489146344</SimpleData>
+		<SimpleData name="Latitude">5.049461543</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.489146344,5.049461543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>75</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.494161268</SimpleData>
+		<SimpleData name="Latitude">5.048672866</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.494161268,5.048672866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>76</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488828513</SimpleData>
+		<SimpleData name="Latitude">5.053028736</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488828513,5.053028736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>77</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488296359</SimpleData>
+		<SimpleData name="Latitude">5.052094328</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488296359,5.052094328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>78</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488315129</SimpleData>
+		<SimpleData name="Latitude">5.051692578</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488315129,5.051692578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>79</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.488852332</SimpleData>
+		<SimpleData name="Latitude">5.050690191</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.488852332,5.050690191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>80</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#British_Komenda">
+		<SimpleData name="Longitude">-1.489459451</SimpleData>
+		<SimpleData name="Latitude">5.053485071</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.489459451,5.053485071</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

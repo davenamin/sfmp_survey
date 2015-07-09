@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Agavedzi" id="Agavedzi">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>Agavedzi</name>
+  <Placemark>
+	<name>1</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.037928409</SimpleData>
+		<SimpleData name="Latitude">5.995695263</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.037928409,5.995695263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.038938749</SimpleData>
+		<SimpleData name="Latitude">5.997008675</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.038938749,5.997008675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.034737619</SimpleData>
+		<SimpleData name="Latitude">5.991957174</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.034737619,5.991957174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.039720444</SimpleData>
+		<SimpleData name="Latitude">5.999004803</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.039720444,5.999004803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.043619281</SimpleData>
+		<SimpleData name="Latitude">6.003906064</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.043619281,6.003906064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.037440614</SimpleData>
+		<SimpleData name="Latitude">5.994617806</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.037440614,5.994617806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.043885979</SimpleData>
+		<SimpleData name="Latitude">6.002347276</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.043885979,6.002347276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.040438289</SimpleData>
+		<SimpleData name="Latitude">5.997996924</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.040438289,5.997996924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.040644225</SimpleData>
+		<SimpleData name="Latitude">5.997087613</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.040644225,5.997087613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.041172249</SimpleData>
+		<SimpleData name="Latitude">5.998792075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.041172249,5.998792075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.039303648</SimpleData>
+		<SimpleData name="Latitude">5.99623788</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.039303648,5.99623788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.039720055</SimpleData>
+		<SimpleData name="Latitude">5.998867113</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.039720055,5.998867113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.042420647</SimpleData>
+		<SimpleData name="Latitude">6.000901626</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.042420647,6.000901626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.042453113</SimpleData>
+		<SimpleData name="Latitude">6.001202235</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.042453113,6.001202235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.043765921</SimpleData>
+		<SimpleData name="Latitude">6.002571972</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.043765921,6.002571972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.037438561</SimpleData>
+		<SimpleData name="Latitude">5.995705147</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.037438561,5.995705147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.042344084</SimpleData>
+		<SimpleData name="Latitude">6.002275036</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.042344084,6.002275036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.040518069</SimpleData>
+		<SimpleData name="Latitude">5.9990615</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.040518069,5.9990615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.042170597</SimpleData>
+		<SimpleData name="Latitude">6.0015663</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.042170597,6.0015663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.03852659</SimpleData>
+		<SimpleData name="Latitude">5.994879863</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.03852659,5.994879863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.036482183</SimpleData>
+		<SimpleData name="Latitude">5.991869411</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.036482183,5.991869411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.044360917</SimpleData>
+		<SimpleData name="Latitude">6.00493191</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.044360917,6.00493191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.042112897</SimpleData>
+		<SimpleData name="Latitude">6.001813066</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.042112897,6.001813066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.040595133</SimpleData>
+		<SimpleData name="Latitude">5.999729496</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.040595133,5.999729496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.036001564</SimpleData>
+		<SimpleData name="Latitude">5.990874524</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.036001564,5.990874524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.036116472</SimpleData>
+		<SimpleData name="Latitude">5.991851994</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.036116472,5.991851994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.041246967</SimpleData>
+		<SimpleData name="Latitude">5.998578999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.041246967,5.998578999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.045491779</SimpleData>
+		<SimpleData name="Latitude">6.005525948</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.045491779,6.005525948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.03685609</SimpleData>
+		<SimpleData name="Latitude">5.991623</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.03685609,5.991623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.041065376</SimpleData>
+		<SimpleData name="Latitude">5.999553083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.041065376,5.999553083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.041094319</SimpleData>
+		<SimpleData name="Latitude">5.998972397</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.041094319,5.998972397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.03766488</SimpleData>
+		<SimpleData name="Latitude">5.996100916</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.03766488,5.996100916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.036283959</SimpleData>
+		<SimpleData name="Latitude">5.991229761</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.036283959,5.991229761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.036082293</SimpleData>
+		<SimpleData name="Latitude">5.991968865</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.036082293,5.991968865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.045013295</SimpleData>
+		<SimpleData name="Latitude">6.004806685</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.045013295,6.004806685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.040136864</SimpleData>
+		<SimpleData name="Latitude">5.999354615</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.040136864,5.999354615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.0445169</SimpleData>
+		<SimpleData name="Latitude">6.004778013</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.0445169,6.004778013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.044959233</SimpleData>
+		<SimpleData name="Latitude">6.005823447</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.044959233,6.005823447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.04502657</SimpleData>
+		<SimpleData name="Latitude">6.006229031</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.04502657,6.006229031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Agavedzi">
+		<SimpleData name="Longitude">1.045278229</SimpleData>
+		<SimpleData name="Latitude">6.004898414</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.045278229,6.004898414</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

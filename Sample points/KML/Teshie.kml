@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Teshie" id="Teshie">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>Teshie</name>
+  <Placemark>
+	<name>1</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.103389764</SimpleData>
+		<SimpleData name="Latitude">5.576986285</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.103389764,5.576986285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.100883805</SimpleData>
+		<SimpleData name="Latitude">5.579164016</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.100883805,5.579164016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.10305992</SimpleData>
+		<SimpleData name="Latitude">5.57703447</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.10305992,5.57703447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.102524428</SimpleData>
+		<SimpleData name="Latitude">5.577701231</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.102524428,5.577701231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.097462962</SimpleData>
+		<SimpleData name="Latitude">5.580498738</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.097462962,5.580498738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.099026212</SimpleData>
+		<SimpleData name="Latitude">5.580435427</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.099026212,5.580435427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.10163862</SimpleData>
+		<SimpleData name="Latitude">5.579283735</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.10163862,5.579283735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.096818928</SimpleData>
+		<SimpleData name="Latitude">5.580654627</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.096818928,5.580654627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.102288098</SimpleData>
+		<SimpleData name="Latitude">5.576730763</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.102288098,5.576730763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.104405017</SimpleData>
+		<SimpleData name="Latitude">5.576457843</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.104405017,5.576457843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.102207132</SimpleData>
+		<SimpleData name="Latitude">5.577784017</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.102207132,5.577784017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.100656566</SimpleData>
+		<SimpleData name="Latitude">5.578447496</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.100656566,5.578447496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.104634011</SimpleData>
+		<SimpleData name="Latitude">5.575540945</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.104634011,5.575540945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.103017036</SimpleData>
+		<SimpleData name="Latitude">5.576843773</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.103017036,5.576843773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.101190479</SimpleData>
+		<SimpleData name="Latitude">5.578227654</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.101190479,5.578227654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.098815027</SimpleData>
+		<SimpleData name="Latitude">5.579895088</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.098815027,5.579895088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.104239335</SimpleData>
+		<SimpleData name="Latitude">5.57548973</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.104239335,5.57548973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.103076443</SimpleData>
+		<SimpleData name="Latitude">5.577347604</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.103076443,5.577347604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.098275197</SimpleData>
+		<SimpleData name="Latitude">5.581052456</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.098275197,5.581052456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.10236072</SimpleData>
+		<SimpleData name="Latitude">5.577920279</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.10236072,5.577920279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.103851296</SimpleData>
+		<SimpleData name="Latitude">5.575755364</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.103851296,5.575755364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.099149344</SimpleData>
+		<SimpleData name="Latitude">5.579559508</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.099149344,5.579559508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.102288757</SimpleData>
+		<SimpleData name="Latitude">5.576571196</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.102288757,5.576571196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.102741358</SimpleData>
+		<SimpleData name="Latitude">5.576573399</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.102741358,5.576573399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.097527277</SimpleData>
+		<SimpleData name="Latitude">5.581376474</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.097527277,5.581376474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.101589788</SimpleData>
+		<SimpleData name="Latitude">5.576924999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.101589788,5.576924999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.104482418</SimpleData>
+		<SimpleData name="Latitude">5.57509882</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.104482418,5.57509882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.102811882</SimpleData>
+		<SimpleData name="Latitude">5.577234482</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.102811882,5.577234482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.10221237</SimpleData>
+		<SimpleData name="Latitude">5.576997889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.10221237,5.576997889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.101689164</SimpleData>
+		<SimpleData name="Latitude">5.57724371</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.101689164,5.57724371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.100316723</SimpleData>
+		<SimpleData name="Latitude">5.579070071</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.100316723,5.579070071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.102744338</SimpleData>
+		<SimpleData name="Latitude">5.575998267</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.102744338,5.575998267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.098279401</SimpleData>
+		<SimpleData name="Latitude">5.579679821</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.098279401,5.579679821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.099728538</SimpleData>
+		<SimpleData name="Latitude">5.580443624</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.099728538,5.580443624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.101615911</SimpleData>
+		<SimpleData name="Latitude">5.57878586</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.101615911,5.57878586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.097691315</SimpleData>
+		<SimpleData name="Latitude">5.579935571</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.097691315,5.579935571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.101990275</SimpleData>
+		<SimpleData name="Latitude">5.577269843</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.101990275,5.577269843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.10215791</SimpleData>
+		<SimpleData name="Latitude">5.578265178</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.10215791,5.578265178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.097239167</SimpleData>
+		<SimpleData name="Latitude">5.581074196</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.097239167,5.581074196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.100326531</SimpleData>
+		<SimpleData name="Latitude">5.579319759</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.100326531,5.579319759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.10381693</SimpleData>
+		<SimpleData name="Latitude">5.576938834</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.10381693,5.576938834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.101300983</SimpleData>
+		<SimpleData name="Latitude">5.577452759</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.101300983,5.577452759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.10505309</SimpleData>
+		<SimpleData name="Latitude">5.576512753</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.10505309,5.576512753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.097938975</SimpleData>
+		<SimpleData name="Latitude">5.581120506</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.097938975,5.581120506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>45</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.103154075</SimpleData>
+		<SimpleData name="Latitude">5.57632882</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.103154075,5.57632882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>46</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.099760089</SimpleData>
+		<SimpleData name="Latitude">5.580193885</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.099760089,5.580193885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.104648146</SimpleData>
+		<SimpleData name="Latitude">5.574906996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.104648146,5.574906996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>48</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.103006772</SimpleData>
+		<SimpleData name="Latitude">5.577024978</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.103006772,5.577024978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.097102356</SimpleData>
+		<SimpleData name="Latitude">5.581543892</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.097102356,5.581543892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>50</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.098926</SimpleData>
+		<SimpleData name="Latitude">5.57998243</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.098926,5.57998243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.099187328</SimpleData>
+		<SimpleData name="Latitude">5.580892782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.099187328,5.580892782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Teshie">
+		<SimpleData name="Longitude">-0.103051439</SimpleData>
+		<SimpleData name="Latitude">5.577537966</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.103051439,5.577537966</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

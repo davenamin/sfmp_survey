@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Senya_Beraku" id="Senya_Beraku">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>Senya_Beraku</name>
+  <Placemark>
+	<name>1</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.496985295</SimpleData>
+		<SimpleData name="Latitude">5.384393643</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.496985295,5.384393643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.490742372</SimpleData>
+		<SimpleData name="Latitude">5.3873164</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.490742372,5.3873164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.497136183</SimpleData>
+		<SimpleData name="Latitude">5.382669488</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.497136183,5.382669488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.488465092</SimpleData>
+		<SimpleData name="Latitude">5.39135902</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.488465092,5.39135902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.494364307</SimpleData>
+		<SimpleData name="Latitude">5.385393763</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.494364307,5.385393763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.496856747</SimpleData>
+		<SimpleData name="Latitude">5.382685168</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.496856747,5.382685168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.49283466</SimpleData>
+		<SimpleData name="Latitude">5.385867296</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.49283466,5.385867296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.491066307</SimpleData>
+		<SimpleData name="Latitude">5.387618818</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.491066307,5.387618818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.497517051</SimpleData>
+		<SimpleData name="Latitude">5.382408764</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.497517051,5.382408764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.48964848</SimpleData>
+		<SimpleData name="Latitude">5.387368882</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.48964848,5.387368882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.49298724</SimpleData>
+		<SimpleData name="Latitude">5.38634961</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.49298724,5.38634961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.489320309</SimpleData>
+		<SimpleData name="Latitude">5.390925465</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.489320309,5.390925465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.488943766</SimpleData>
+		<SimpleData name="Latitude">5.391100016</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.488943766,5.391100016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.499291778</SimpleData>
+		<SimpleData name="Latitude">5.383221636</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.499291778,5.383221636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.48980461</SimpleData>
+		<SimpleData name="Latitude">5.389946017</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.48980461,5.389946017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.489032232</SimpleData>
+		<SimpleData name="Latitude">5.391733377</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.489032232,5.391733377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.489298138</SimpleData>
+		<SimpleData name="Latitude">5.390691271</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.489298138,5.390691271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.493825759</SimpleData>
+		<SimpleData name="Latitude">5.384535932</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.493825759,5.384535932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.491622859</SimpleData>
+		<SimpleData name="Latitude">5.386162044</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.491622859,5.386162044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.489038542</SimpleData>
+		<SimpleData name="Latitude">5.39248782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.489038542,5.39248782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.497547935</SimpleData>
+		<SimpleData name="Latitude">5.384254641</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.497547935,5.384254641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.493890824</SimpleData>
+		<SimpleData name="Latitude">5.385728359</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.493890824,5.385728359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.497618853</SimpleData>
+		<SimpleData name="Latitude">5.383141323</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.497618853,5.383141323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.491107127</SimpleData>
+		<SimpleData name="Latitude">5.388849738</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.491107127,5.388849738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.490190762</SimpleData>
+		<SimpleData name="Latitude">5.387686368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.490190762,5.387686368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.495531835</SimpleData>
+		<SimpleData name="Latitude">5.383913191</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.495531835,5.383913191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.490986694</SimpleData>
+		<SimpleData name="Latitude">5.388075259</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.490986694,5.388075259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.489337686</SimpleData>
+		<SimpleData name="Latitude">5.386962045</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.489337686,5.386962045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.496841937</SimpleData>
+		<SimpleData name="Latitude">5.384103269</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.496841937,5.384103269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.491041617</SimpleData>
+		<SimpleData name="Latitude">5.387706967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.491041617,5.387706967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.490135099</SimpleData>
+		<SimpleData name="Latitude">5.388060967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.490135099,5.388060967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.491862914</SimpleData>
+		<SimpleData name="Latitude">5.385363057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.491862914,5.385363057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.490118915</SimpleData>
+		<SimpleData name="Latitude">5.389547768</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.490118915,5.389547768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.489160582</SimpleData>
+		<SimpleData name="Latitude">5.391633473</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.489160582,5.391633473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.494555039</SimpleData>
+		<SimpleData name="Latitude">5.385038685</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.494555039,5.385038685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.492120866</SimpleData>
+		<SimpleData name="Latitude">5.385634884</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.492120866,5.385634884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.490546104</SimpleData>
+		<SimpleData name="Latitude">5.387249087</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.490546104,5.387249087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.48849882</SimpleData>
+		<SimpleData name="Latitude">5.392446262</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.48849882,5.392446262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.490466501</SimpleData>
+		<SimpleData name="Latitude">5.389063515</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.490466501,5.389063515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.491846224</SimpleData>
+		<SimpleData name="Latitude">5.385083892</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.491846224,5.385083892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.489535648</SimpleData>
+		<SimpleData name="Latitude">5.391524501</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.489535648,5.391524501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.490207761</SimpleData>
+		<SimpleData name="Latitude">5.386026778</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.490207761,5.386026778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.498788535</SimpleData>
+		<SimpleData name="Latitude">5.382170839</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.498788535,5.382170839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.487942174</SimpleData>
+		<SimpleData name="Latitude">5.391449294</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.487942174,5.391449294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>45</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.492234251</SimpleData>
+		<SimpleData name="Latitude">5.386054655</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.492234251,5.386054655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>46</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.495185178</SimpleData>
+		<SimpleData name="Latitude">5.38496128</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.495185178,5.38496128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.498570569</SimpleData>
+		<SimpleData name="Latitude">5.382451565</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.498570569,5.382451565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>48</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.498810811</SimpleData>
+		<SimpleData name="Latitude">5.383526136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.498810811,5.383526136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.489122412</SimpleData>
+		<SimpleData name="Latitude">5.390628798</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.489122412,5.390628798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>50</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.49732378</SimpleData>
+		<SimpleData name="Latitude">5.383035987</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.49732378,5.383035987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.490210258</SimpleData>
+		<SimpleData name="Latitude">5.390396713</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.490210258,5.390396713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.490479904</SimpleData>
+		<SimpleData name="Latitude">5.391262281</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.490479904,5.391262281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>53</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.494683436</SimpleData>
+		<SimpleData name="Latitude">5.384547809</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.494683436,5.384547809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>54</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.495076763</SimpleData>
+		<SimpleData name="Latitude">5.384117705</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.495076763,5.384117705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>55</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.498039211</SimpleData>
+		<SimpleData name="Latitude">5.383018799</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.498039211,5.383018799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>56</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.498536516</SimpleData>
+		<SimpleData name="Latitude">5.383027626</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.498536516,5.383027626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.499072455</SimpleData>
+		<SimpleData name="Latitude">5.38297037</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.499072455,5.38297037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>58</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.494271619</SimpleData>
+		<SimpleData name="Latitude">5.384755343</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.494271619,5.384755343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>59</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.491632849</SimpleData>
+		<SimpleData name="Latitude">5.389204101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.491632849,5.389204101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>60</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.489530652</SimpleData>
+		<SimpleData name="Latitude">5.387080518</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.489530652,5.387080518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>61</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.494294955</SimpleData>
+		<SimpleData name="Latitude">5.384926095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.494294955,5.384926095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>62</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.491596913</SimpleData>
+		<SimpleData name="Latitude">5.38683452</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.491596913,5.38683452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>63</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.490162446</SimpleData>
+		<SimpleData name="Latitude">5.389674888</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.490162446,5.389674888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>64</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.490753939</SimpleData>
+		<SimpleData name="Latitude">5.385609703</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.490753939,5.385609703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>65</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.490624945</SimpleData>
+		<SimpleData name="Latitude">5.390830124</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.490624945,5.390830124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>66</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.495955339</SimpleData>
+		<SimpleData name="Latitude">5.383976307</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.495955339,5.383976307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>67</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.490196802</SimpleData>
+		<SimpleData name="Latitude">5.387637736</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.490196802,5.387637736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>68</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.497584906</SimpleData>
+		<SimpleData name="Latitude">5.384326037</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.497584906,5.384326037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>69</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.491619679</SimpleData>
+		<SimpleData name="Latitude">5.38652724</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.491619679,5.38652724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>70</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.498934863</SimpleData>
+		<SimpleData name="Latitude">5.38269008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.498934863,5.38269008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>71</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.495866625</SimpleData>
+		<SimpleData name="Latitude">5.385257265</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.495866625,5.385257265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Senya_Beraku">
+		<SimpleData name="Longitude">-0.489519095</SimpleData>
+		<SimpleData name="Latitude">5.392202145</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.489519095,5.392202145</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

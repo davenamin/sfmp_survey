@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Shama_Bentsir" id="Shama_Bentsir">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>Shama_Bentsir</name>
+  <Placemark>
+	<name>1</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629496251</SimpleData>
+		<SimpleData name="Latitude">5.007460579</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629496251,5.007460579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.631853216</SimpleData>
+		<SimpleData name="Latitude">5.006795173</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.631853216,5.006795173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.63093842</SimpleData>
+		<SimpleData name="Latitude">5.007973004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.63093842,5.007973004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.631232334</SimpleData>
+		<SimpleData name="Latitude">5.006661269</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.631232334,5.006661269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629477567</SimpleData>
+		<SimpleData name="Latitude">5.007917758</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629477567,5.007917758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629638615</SimpleData>
+		<SimpleData name="Latitude">5.010961435</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629638615,5.010961435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.628651552</SimpleData>
+		<SimpleData name="Latitude">5.011220516</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.628651552,5.011220516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630516322</SimpleData>
+		<SimpleData name="Latitude">5.007409474</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630516322,5.007409474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630805574</SimpleData>
+		<SimpleData name="Latitude">5.008205431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630805574,5.008205431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629586706</SimpleData>
+		<SimpleData name="Latitude">5.010940048</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629586706,5.010940048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.631637364</SimpleData>
+		<SimpleData name="Latitude">5.007775979</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.631637364,5.007775979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.628162708</SimpleData>
+		<SimpleData name="Latitude">5.009711176</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.628162708,5.009711176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629111804</SimpleData>
+		<SimpleData name="Latitude">5.008471719</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629111804,5.008471719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629535827</SimpleData>
+		<SimpleData name="Latitude">5.01180519</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629535827,5.01180519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.631014105</SimpleData>
+		<SimpleData name="Latitude">5.007144714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.631014105,5.007144714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629844184</SimpleData>
+		<SimpleData name="Latitude">5.007408636</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629844184,5.007408636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.63043663</SimpleData>
+		<SimpleData name="Latitude">5.007690401</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.63043663,5.007690401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629513695</SimpleData>
+		<SimpleData name="Latitude">5.007413522</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629513695,5.007413522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630995844</SimpleData>
+		<SimpleData name="Latitude">5.006871356</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630995844,5.006871356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.628399544</SimpleData>
+		<SimpleData name="Latitude">5.010856404</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.628399544,5.010856404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630303772</SimpleData>
+		<SimpleData name="Latitude">5.006760753</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630303772,5.006760753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.631635141</SimpleData>
+		<SimpleData name="Latitude">5.007146373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.631635141,5.007146373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.631073489</SimpleData>
+		<SimpleData name="Latitude">5.006849493</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.631073489,5.006849493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629519003</SimpleData>
+		<SimpleData name="Latitude">5.008622457</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629519003,5.008622457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629757644</SimpleData>
+		<SimpleData name="Latitude">5.007459099</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629757644,5.007459099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629508404</SimpleData>
+		<SimpleData name="Latitude">5.00935934</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629508404,5.00935934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630212365</SimpleData>
+		<SimpleData name="Latitude">5.008959487</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630212365,5.008959487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629193039</SimpleData>
+		<SimpleData name="Latitude">5.010062631</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629193039,5.010062631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630542505</SimpleData>
+		<SimpleData name="Latitude">5.007196704</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630542505,5.007196704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629903226</SimpleData>
+		<SimpleData name="Latitude">5.011235263</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629903226,5.011235263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.631763675</SimpleData>
+		<SimpleData name="Latitude">5.007453987</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.631763675,5.007453987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.628169122</SimpleData>
+		<SimpleData name="Latitude">5.010552801</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.628169122,5.010552801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.628210853</SimpleData>
+		<SimpleData name="Latitude">5.009626347</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.628210853,5.009626347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.628670169</SimpleData>
+		<SimpleData name="Latitude">5.011397777</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.628670169,5.011397777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629575736</SimpleData>
+		<SimpleData name="Latitude">5.00882894</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629575736,5.00882894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630691623</SimpleData>
+		<SimpleData name="Latitude">5.008780724</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630691623,5.008780724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629315541</SimpleData>
+		<SimpleData name="Latitude">5.008981242</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629315541,5.008981242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629324071</SimpleData>
+		<SimpleData name="Latitude">5.009665751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629324071,5.009665751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630098715</SimpleData>
+		<SimpleData name="Latitude">5.009827058</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630098715,5.009827058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.631842554</SimpleData>
+		<SimpleData name="Latitude">5.007130954</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.631842554,5.007130954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629014338</SimpleData>
+		<SimpleData name="Latitude">5.01022186</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629014338,5.01022186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.631551987</SimpleData>
+		<SimpleData name="Latitude">5.007884189</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.631551987,5.007884189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630171492</SimpleData>
+		<SimpleData name="Latitude">5.008085614</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630171492,5.008085614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.628577107</SimpleData>
+		<SimpleData name="Latitude">5.01104755</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.628577107,5.01104755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>45</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.628700926</SimpleData>
+		<SimpleData name="Latitude">5.009532096</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.628700926,5.009532096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>46</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630949223</SimpleData>
+		<SimpleData name="Latitude">5.006482648</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630949223,5.006482648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629366671</SimpleData>
+		<SimpleData name="Latitude">5.008611183</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629366671,5.008611183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>48</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630466585</SimpleData>
+		<SimpleData name="Latitude">5.006611775</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630466585,5.006611775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.631936898</SimpleData>
+		<SimpleData name="Latitude">5.007019741</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.631936898,5.007019741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>50</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629538898</SimpleData>
+		<SimpleData name="Latitude">5.011417608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629538898,5.011417608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.62824902</SimpleData>
+		<SimpleData name="Latitude">5.011142319</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.62824902,5.011142319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.63147446</SimpleData>
+		<SimpleData name="Latitude">5.006816973</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.63147446,5.006816973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>53</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630009906</SimpleData>
+		<SimpleData name="Latitude">5.00696054</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630009906,5.00696054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>54</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629787787</SimpleData>
+		<SimpleData name="Latitude">5.009786144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629787787,5.009786144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>55</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629426169</SimpleData>
+		<SimpleData name="Latitude">5.008414146</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629426169,5.008414146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>56</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630144423</SimpleData>
+		<SimpleData name="Latitude">5.008887684</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630144423,5.008887684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.631011449</SimpleData>
+		<SimpleData name="Latitude">5.00692814</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.631011449,5.00692814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>58</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630203682</SimpleData>
+		<SimpleData name="Latitude">5.007270225</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630203682,5.007270225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>59</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.628977418</SimpleData>
+		<SimpleData name="Latitude">5.011317558</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.628977418,5.011317558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>60</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630921421</SimpleData>
+		<SimpleData name="Latitude">5.007422576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630921421,5.007422576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>61</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.628628402</SimpleData>
+		<SimpleData name="Latitude">5.010674861</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.628628402,5.010674861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>62</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630496107</SimpleData>
+		<SimpleData name="Latitude">5.008971869</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630496107,5.008971869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>63</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630002301</SimpleData>
+		<SimpleData name="Latitude">5.009699502</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630002301,5.009699502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>64</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.6313563</SimpleData>
+		<SimpleData name="Latitude">5.007581485</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.6313563,5.007581485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>65</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.628891967</SimpleData>
+		<SimpleData name="Latitude">5.008345642</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.628891967,5.008345642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>66</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.628976844</SimpleData>
+		<SimpleData name="Latitude">5.010447295</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.628976844,5.010447295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>67</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.628949023</SimpleData>
+		<SimpleData name="Latitude">5.00934998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.628949023,5.00934998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>68</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630355212</SimpleData>
+		<SimpleData name="Latitude">5.008370648</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630355212,5.008370648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>69</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629403369</SimpleData>
+		<SimpleData name="Latitude">5.010454851</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629403369,5.010454851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>70</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.630735403</SimpleData>
+		<SimpleData name="Latitude">5.007863447</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.630735403,5.007863447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>71</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.629630952</SimpleData>
+		<SimpleData name="Latitude">5.011241347</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.629630952,5.011241347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Shama_Bentsir">
+		<SimpleData name="Longitude">-1.628387174</SimpleData>
+		<SimpleData name="Latitude">5.011003046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.628387174,5.011003046</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

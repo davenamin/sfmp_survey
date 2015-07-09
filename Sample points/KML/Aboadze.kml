@@ -1,0 +1,1740 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Aboadze" id="Aboadze">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>Aboadze</name>
+  <Placemark>
+	<name>1</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64539282</SimpleData>
+		<SimpleData name="Latitude">4.972347746</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64539282,4.972347746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646284397</SimpleData>
+		<SimpleData name="Latitude">4.975005934</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646284397,4.975005934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644761277</SimpleData>
+		<SimpleData name="Latitude">4.972944877</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644761277,4.972944877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647514089</SimpleData>
+		<SimpleData name="Latitude">4.972900336</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647514089,4.972900336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64643378</SimpleData>
+		<SimpleData name="Latitude">4.972419683</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64643378,4.972419683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644700223</SimpleData>
+		<SimpleData name="Latitude">4.972382452</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644700223,4.972382452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644911813</SimpleData>
+		<SimpleData name="Latitude">4.974666339</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644911813,4.974666339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646352886</SimpleData>
+		<SimpleData name="Latitude">4.974794106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646352886,4.974794106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644905043</SimpleData>
+		<SimpleData name="Latitude">4.974279312</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644905043,4.974279312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645001377</SimpleData>
+		<SimpleData name="Latitude">4.972992873</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645001377,4.972992873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645879129</SimpleData>
+		<SimpleData name="Latitude">4.974170869</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645879129,4.974170869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645775519</SimpleData>
+		<SimpleData name="Latitude">4.973562978</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645775519,4.973562978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647540309</SimpleData>
+		<SimpleData name="Latitude">4.971993057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647540309,4.971993057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646286763</SimpleData>
+		<SimpleData name="Latitude">4.972708993</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646286763,4.972708993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646157436</SimpleData>
+		<SimpleData name="Latitude">4.971590367</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646157436,4.971590367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647359776</SimpleData>
+		<SimpleData name="Latitude">4.971915711</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647359776,4.971915711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646015574</SimpleData>
+		<SimpleData name="Latitude">4.972292284</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646015574,4.972292284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646040278</SimpleData>
+		<SimpleData name="Latitude">4.974836696</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646040278,4.974836696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646067394</SimpleData>
+		<SimpleData name="Latitude">4.971305635</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646067394,4.971305635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647755652</SimpleData>
+		<SimpleData name="Latitude">4.972028911</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647755652,4.972028911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646186061</SimpleData>
+		<SimpleData name="Latitude">4.971525417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646186061,4.971525417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646364531</SimpleData>
+		<SimpleData name="Latitude">4.97216507</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646364531,4.97216507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645414814</SimpleData>
+		<SimpleData name="Latitude">4.972057774</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645414814,4.972057774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645187674</SimpleData>
+		<SimpleData name="Latitude">4.972269106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645187674,4.972269106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646009869</SimpleData>
+		<SimpleData name="Latitude">4.971706139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646009869,4.971706139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645911865</SimpleData>
+		<SimpleData name="Latitude">4.972951079</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645911865,4.972951079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645472491</SimpleData>
+		<SimpleData name="Latitude">4.972281526</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645472491,4.972281526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645518647</SimpleData>
+		<SimpleData name="Latitude">4.975363956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645518647,4.975363956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64592964</SimpleData>
+		<SimpleData name="Latitude">4.974546628</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64592964,4.974546628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646160775</SimpleData>
+		<SimpleData name="Latitude">4.973883554</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646160775,4.973883554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645241843</SimpleData>
+		<SimpleData name="Latitude">4.971596754</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645241843,4.971596754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646522433</SimpleData>
+		<SimpleData name="Latitude">4.973020491</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646522433,4.973020491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647541262</SimpleData>
+		<SimpleData name="Latitude">4.971213681</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647541262,4.971213681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644551894</SimpleData>
+		<SimpleData name="Latitude">4.971963554</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644551894,4.971963554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644799533</SimpleData>
+		<SimpleData name="Latitude">4.971750246</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644799533,4.971750246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646037754</SimpleData>
+		<SimpleData name="Latitude">4.975394368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646037754,4.975394368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647704539</SimpleData>
+		<SimpleData name="Latitude">4.972099252</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647704539,4.972099252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644793756</SimpleData>
+		<SimpleData name="Latitude">4.973331991</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644793756,4.973331991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646348937</SimpleData>
+		<SimpleData name="Latitude">4.974323831</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646348937,4.974323831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647626323</SimpleData>
+		<SimpleData name="Latitude">4.972890542</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647626323,4.972890542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645908577</SimpleData>
+		<SimpleData name="Latitude">4.971806093</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645908577,4.971806093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646251223</SimpleData>
+		<SimpleData name="Latitude">4.973760033</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646251223,4.973760033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645166305</SimpleData>
+		<SimpleData name="Latitude">4.975022006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645166305,4.975022006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.6464206</SimpleData>
+		<SimpleData name="Latitude">4.972431889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.6464206,4.972431889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>45</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647704967</SimpleData>
+		<SimpleData name="Latitude">4.971402909</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647704967,4.971402909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>46</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64531173</SimpleData>
+		<SimpleData name="Latitude">4.974717817</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64531173,4.974717817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645129264</SimpleData>
+		<SimpleData name="Latitude">4.97358443</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645129264,4.97358443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>48</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645586119</SimpleData>
+		<SimpleData name="Latitude">4.973585424</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645586119,4.973585424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646334857</SimpleData>
+		<SimpleData name="Latitude">4.975191462</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646334857,4.975191462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>50</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645516595</SimpleData>
+		<SimpleData name="Latitude">4.973539673</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645516595,4.973539673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645945939</SimpleData>
+		<SimpleData name="Latitude">4.972738386</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645945939,4.972738386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644616228</SimpleData>
+		<SimpleData name="Latitude">4.972463329</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644616228,4.972463329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>53</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646039844</SimpleData>
+		<SimpleData name="Latitude">4.973598824</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646039844,4.973598824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>54</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646109038</SimpleData>
+		<SimpleData name="Latitude">4.971921216</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646109038,4.971921216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>55</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646289412</SimpleData>
+		<SimpleData name="Latitude">4.974956871</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646289412,4.974956871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>56</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645245357</SimpleData>
+		<SimpleData name="Latitude">4.974330653</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645245357,4.974330653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646020406</SimpleData>
+		<SimpleData name="Latitude">4.972301745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646020406,4.972301745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>58</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64525559</SimpleData>
+		<SimpleData name="Latitude">4.973432288</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64525559,4.973432288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>59</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645369227</SimpleData>
+		<SimpleData name="Latitude">4.972324268</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645369227,4.972324268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>60</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646309743</SimpleData>
+		<SimpleData name="Latitude">4.973053905</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646309743,4.973053905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>61</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645447512</SimpleData>
+		<SimpleData name="Latitude">4.972398337</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645447512,4.972398337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>62</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645332487</SimpleData>
+		<SimpleData name="Latitude">4.973347939</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645332487,4.973347939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>63</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646008939</SimpleData>
+		<SimpleData name="Latitude">4.975715939</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646008939,4.975715939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>64</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64640822</SimpleData>
+		<SimpleData name="Latitude">4.971566515</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64640822,4.971566515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>65</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646061056</SimpleData>
+		<SimpleData name="Latitude">4.973536739</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646061056,4.973536739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>66</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646645707</SimpleData>
+		<SimpleData name="Latitude">4.971662815</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646645707,4.971662815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>67</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646366008</SimpleData>
+		<SimpleData name="Latitude">4.971582417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646366008,4.971582417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>68</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645980466</SimpleData>
+		<SimpleData name="Latitude">4.97354347</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645980466,4.97354347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>69</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64565267</SimpleData>
+		<SimpleData name="Latitude">4.972282228</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64565267,4.972282228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>70</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645580912</SimpleData>
+		<SimpleData name="Latitude">4.971501278</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645580912,4.971501278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>71</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644285633</SimpleData>
+		<SimpleData name="Latitude">4.973092699</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644285633,4.973092699</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646702796</SimpleData>
+		<SimpleData name="Latitude">4.972500199</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646702796,4.972500199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>73</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645424055</SimpleData>
+		<SimpleData name="Latitude">4.973718726</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645424055,4.973718726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>74</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645718259</SimpleData>
+		<SimpleData name="Latitude">4.974810245</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645718259,4.974810245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>75</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645468138</SimpleData>
+		<SimpleData name="Latitude">4.97306026</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645468138,4.97306026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>76</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644392216</SimpleData>
+		<SimpleData name="Latitude">4.972825616</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644392216,4.972825616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>77</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647567963</SimpleData>
+		<SimpleData name="Latitude">4.971164579</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647567963,4.971164579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>78</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64761412</SimpleData>
+		<SimpleData name="Latitude">4.972789212</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64761412,4.972789212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>79</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645569775</SimpleData>
+		<SimpleData name="Latitude">4.974000825</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645569775,4.974000825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>80</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64637434</SimpleData>
+		<SimpleData name="Latitude">4.971719224</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64637434,4.971719224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646141514</SimpleData>
+		<SimpleData name="Latitude">4.975354485</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646141514,4.975354485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>82</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644771844</SimpleData>
+		<SimpleData name="Latitude">4.972563223</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644771844,4.972563223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>83</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646154708</SimpleData>
+		<SimpleData name="Latitude">4.974866804</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646154708,4.974866804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64680906</SimpleData>
+		<SimpleData name="Latitude">4.973070248</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64680906,4.973070248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>85</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64498646</SimpleData>
+		<SimpleData name="Latitude">4.971528184</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64498646,4.971528184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>86</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645573984</SimpleData>
+		<SimpleData name="Latitude">4.973820381</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645573984,4.973820381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>87</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645637491</SimpleData>
+		<SimpleData name="Latitude">4.975617504</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645637491,4.975617504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>88</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647045976</SimpleData>
+		<SimpleData name="Latitude">4.972559689</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647045976,4.972559689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>89</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645901068</SimpleData>
+		<SimpleData name="Latitude">4.974566623</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645901068,4.974566623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>90</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647755382</SimpleData>
+		<SimpleData name="Latitude">4.971492694</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647755382,4.971492694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644520357</SimpleData>
+		<SimpleData name="Latitude">4.973397783</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644520357,4.973397783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>92</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644822634</SimpleData>
+		<SimpleData name="Latitude">4.97411286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644822634,4.97411286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>93</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645716073</SimpleData>
+		<SimpleData name="Latitude">4.974098463</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645716073,4.974098463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>94</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646393724</SimpleData>
+		<SimpleData name="Latitude">4.9740879</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646393724,4.9740879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645130481</SimpleData>
+		<SimpleData name="Latitude">4.974854314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645130481,4.974854314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>96</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646254997</SimpleData>
+		<SimpleData name="Latitude">4.973945271</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646254997,4.973945271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>97</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647075015</SimpleData>
+		<SimpleData name="Latitude">4.972562065</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647075015,4.972562065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>98</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645977231</SimpleData>
+		<SimpleData name="Latitude">4.971801648</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645977231,4.971801648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>99</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645871254</SimpleData>
+		<SimpleData name="Latitude">4.973617336</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645871254,4.973617336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>100</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645691729</SimpleData>
+		<SimpleData name="Latitude">4.975840702</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645691729,4.975840702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645344659</SimpleData>
+		<SimpleData name="Latitude">4.972029911</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645344659,4.972029911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>102</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645194512</SimpleData>
+		<SimpleData name="Latitude">4.972332155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645194512,4.972332155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>103</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645873102</SimpleData>
+		<SimpleData name="Latitude">4.975268854</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645873102,4.975268854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>104</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645704324</SimpleData>
+		<SimpleData name="Latitude">4.975429008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645704324,4.975429008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>105</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64504362</SimpleData>
+		<SimpleData name="Latitude">4.971497805</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64504362,4.971497805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>106</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646630283</SimpleData>
+		<SimpleData name="Latitude">4.971848373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646630283,4.971848373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>107</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645064771</SimpleData>
+		<SimpleData name="Latitude">4.974239956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645064771,4.974239956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>108</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645471493</SimpleData>
+		<SimpleData name="Latitude">4.972680106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645471493,4.972680106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>109</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645285089</SimpleData>
+		<SimpleData name="Latitude">4.974143066</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645285089,4.974143066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>110</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647313564</SimpleData>
+		<SimpleData name="Latitude">4.972714579</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647313564,4.972714579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>111</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64789222</SimpleData>
+		<SimpleData name="Latitude">4.972422665</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64789222,4.972422665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>112</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645001374</SimpleData>
+		<SimpleData name="Latitude">4.975378574</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645001374,4.975378574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>113</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644513677</SimpleData>
+		<SimpleData name="Latitude">4.97262523</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644513677,4.97262523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>114</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.648089134</SimpleData>
+		<SimpleData name="Latitude">4.972355083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.648089134,4.972355083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>115</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64456488</SimpleData>
+		<SimpleData name="Latitude">4.972661471</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64456488,4.972661471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>116</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646543442</SimpleData>
+		<SimpleData name="Latitude">4.971698465</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646543442,4.971698465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>117</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644639668</SimpleData>
+		<SimpleData name="Latitude">4.974657007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644639668,4.974657007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>118</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645318735</SimpleData>
+		<SimpleData name="Latitude">4.975188324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645318735,4.975188324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>119</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646158318</SimpleData>
+		<SimpleData name="Latitude">4.973947274</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646158318,4.973947274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>120</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64791097</SimpleData>
+		<SimpleData name="Latitude">4.972453445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64791097,4.972453445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>121</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645188639</SimpleData>
+		<SimpleData name="Latitude">4.97225771</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645188639,4.97225771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>122</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646742696</SimpleData>
+		<SimpleData name="Latitude">4.973034914</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646742696,4.973034914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>123</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645524099</SimpleData>
+		<SimpleData name="Latitude">4.974989612</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645524099,4.974989612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>124</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644563452</SimpleData>
+		<SimpleData name="Latitude">4.972882774</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644563452,4.972882774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>125</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647142263</SimpleData>
+		<SimpleData name="Latitude">4.972095084</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647142263,4.972095084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>126</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64618541</SimpleData>
+		<SimpleData name="Latitude">4.97562791</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64618541,4.97562791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>127</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64543752</SimpleData>
+		<SimpleData name="Latitude">4.972591791</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64543752,4.972591791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>128</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.6467903</SimpleData>
+		<SimpleData name="Latitude">4.972115765</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.6467903,4.972115765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>129</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644924325</SimpleData>
+		<SimpleData name="Latitude">4.972140075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644924325,4.972140075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>130</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64483734</SimpleData>
+		<SimpleData name="Latitude">4.974714086</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64483734,4.974714086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>131</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644556312</SimpleData>
+		<SimpleData name="Latitude">4.973182863</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644556312,4.973182863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>132</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645100498</SimpleData>
+		<SimpleData name="Latitude">4.97309756</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645100498,4.97309756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>133</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644886905</SimpleData>
+		<SimpleData name="Latitude">4.974224016</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644886905,4.974224016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>134</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645759488</SimpleData>
+		<SimpleData name="Latitude">4.974811116</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645759488,4.974811116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>135</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645077472</SimpleData>
+		<SimpleData name="Latitude">4.972548455</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645077472,4.972548455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>136</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646632025</SimpleData>
+		<SimpleData name="Latitude">4.972583046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646632025,4.972583046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>137</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644533862</SimpleData>
+		<SimpleData name="Latitude">4.972541968</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644533862,4.972541968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>138</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64579143</SimpleData>
+		<SimpleData name="Latitude">4.972522436</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64579143,4.972522436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>139</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647588065</SimpleData>
+		<SimpleData name="Latitude">4.972509811</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647588065,4.972509811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>140</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645154757</SimpleData>
+		<SimpleData name="Latitude">4.971974581</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645154757,4.971974581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>141</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645684079</SimpleData>
+		<SimpleData name="Latitude">4.975686514</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645684079,4.975686514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>142</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647179132</SimpleData>
+		<SimpleData name="Latitude">4.972713673</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647179132,4.972713673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>143</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64489274</SimpleData>
+		<SimpleData name="Latitude">4.973879281</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64489274,4.973879281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>144</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645880894</SimpleData>
+		<SimpleData name="Latitude">4.973360644</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645880894,4.973360644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>145</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646606146</SimpleData>
+		<SimpleData name="Latitude">4.972307357</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646606146,4.972307357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>146</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647299259</SimpleData>
+		<SimpleData name="Latitude">4.971772423</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647299259,4.971772423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>147</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644482261</SimpleData>
+		<SimpleData name="Latitude">4.972484774</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644482261,4.972484774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>148</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646579222</SimpleData>
+		<SimpleData name="Latitude">4.97306906</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646579222,4.97306906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>149</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645496645</SimpleData>
+		<SimpleData name="Latitude">4.97183889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645496645,4.97183889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>150</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644916626</SimpleData>
+		<SimpleData name="Latitude">4.972559387</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644916626,4.972559387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>151</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647576846</SimpleData>
+		<SimpleData name="Latitude">4.971148152</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647576846,4.971148152</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>152</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647524452</SimpleData>
+		<SimpleData name="Latitude">4.971951038</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647524452,4.971951038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>153</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646143931</SimpleData>
+		<SimpleData name="Latitude">4.972288167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646143931,4.972288167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>154</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64586642</SimpleData>
+		<SimpleData name="Latitude">4.972700565</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64586642,4.972700565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>155</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645499707</SimpleData>
+		<SimpleData name="Latitude">4.974722791</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645499707,4.974722791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>156</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64557199</SimpleData>
+		<SimpleData name="Latitude">4.974618064</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64557199,4.974618064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>157</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645899697</SimpleData>
+		<SimpleData name="Latitude">4.975871004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645899697,4.975871004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>158</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644832884</SimpleData>
+		<SimpleData name="Latitude">4.972016161</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644832884,4.972016161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>159</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646869998</SimpleData>
+		<SimpleData name="Latitude">4.972074403</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646869998,4.972074403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>160</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645827372</SimpleData>
+		<SimpleData name="Latitude">4.975930322</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645827372,4.975930322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>161</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646995689</SimpleData>
+		<SimpleData name="Latitude">4.971810059</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646995689,4.971810059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>162</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647547246</SimpleData>
+		<SimpleData name="Latitude">4.972128044</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647547246,4.972128044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>163</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646067689</SimpleData>
+		<SimpleData name="Latitude">4.973870375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646067689,4.973870375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>164</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644855128</SimpleData>
+		<SimpleData name="Latitude">4.972390634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644855128,4.972390634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>165</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64543072</SimpleData>
+		<SimpleData name="Latitude">4.975617421</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64543072,4.975617421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>166</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645051066</SimpleData>
+		<SimpleData name="Latitude">4.973157575</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645051066,4.973157575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>167</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645117255</SimpleData>
+		<SimpleData name="Latitude">4.974738558</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645117255,4.974738558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>168</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644291207</SimpleData>
+		<SimpleData name="Latitude">4.972974569</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644291207,4.972974569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>169</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646780992</SimpleData>
+		<SimpleData name="Latitude">4.971942208</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646780992,4.971942208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>170</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645568022</SimpleData>
+		<SimpleData name="Latitude">4.972256511</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645568022,4.972256511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>171</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646046782</SimpleData>
+		<SimpleData name="Latitude">4.975697086</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646046782,4.975697086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>172</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645353003</SimpleData>
+		<SimpleData name="Latitude">4.971783115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645353003,4.971783115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>173</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645697201</SimpleData>
+		<SimpleData name="Latitude">4.97153321</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645697201,4.97153321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>174</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644624114</SimpleData>
+		<SimpleData name="Latitude">4.97239465</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644624114,4.97239465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>175</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646607452</SimpleData>
+		<SimpleData name="Latitude">4.972104029</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646607452,4.972104029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>176</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646164436</SimpleData>
+		<SimpleData name="Latitude">4.975503138</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646164436,4.975503138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>177</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645612416</SimpleData>
+		<SimpleData name="Latitude">4.975288845</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645612416,4.975288845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>178</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647111377</SimpleData>
+		<SimpleData name="Latitude">4.971374913</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647111377,4.971374913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>179</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645198716</SimpleData>
+		<SimpleData name="Latitude">4.971944724</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645198716,4.971944724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>180</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645698374</SimpleData>
+		<SimpleData name="Latitude">4.97460218</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645698374,4.97460218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>181</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646952753</SimpleData>
+		<SimpleData name="Latitude">4.973039302</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646952753,4.973039302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>182</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644833763</SimpleData>
+		<SimpleData name="Latitude">4.974160833</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644833763,4.974160833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>183</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645724753</SimpleData>
+		<SimpleData name="Latitude">4.974247147</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645724753,4.974247147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>184</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.647857297</SimpleData>
+		<SimpleData name="Latitude">4.972591304</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.647857297,4.972591304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>185</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646277047</SimpleData>
+		<SimpleData name="Latitude">4.974011257</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646277047,4.974011257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>186</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645942435</SimpleData>
+		<SimpleData name="Latitude">4.971335589</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645942435,4.971335589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>187</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645971279</SimpleData>
+		<SimpleData name="Latitude">4.97326135</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645971279,4.97326135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>188</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646315602</SimpleData>
+		<SimpleData name="Latitude">4.9740585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646315602,4.9740585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>189</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.646027276</SimpleData>
+		<SimpleData name="Latitude">4.975444575</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.646027276,4.975444575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>190</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.645744793</SimpleData>
+		<SimpleData name="Latitude">4.974570709</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.645744793,4.974570709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>191</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.64526274</SimpleData>
+		<SimpleData name="Latitude">4.974248362</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.64526274,4.974248362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>192</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Aboadze">
+		<SimpleData name="Longitude">-1.644694964</SimpleData>
+		<SimpleData name="Latitude">4.973557439</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.644694964,4.973557439</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

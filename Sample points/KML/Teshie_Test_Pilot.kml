@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Teshie_Test_Pilot" id="Teshie_Test_Pilot">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+</Schema>
+<Folder><name>Teshie_Test_Pilot</name>
+  <Placemark>
+	<name>1</name>
+	<description>sample</description>
+      <Point><coordinates>-0.101513759305641,5.577933590752821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<description>sample</description>
+      <Point><coordinates>-0.101775831609231,5.578541122002052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<description>sample</description>
+      <Point><coordinates>-0.101120650850256,5.578827019060513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<description>sample</description>
+      <Point><coordinates>-0.099429093254359,5.579946782539487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<description>sample</description>
+      <Point><coordinates>-0.098035345094359,5.580673437563077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<description>sample</description>
+      <Point><coordinates>-0.103812848150769,5.576516017837949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<description>sample</description>
+      <Point><coordinates>-0.103324440675897,5.575944223721025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<description>backup</description>
+      <Point><coordinates>-0.104301255625641,5.576063347495385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<description>backup</description>
+      <Point><coordinates>-0.098047257471795,5.58025650435282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+	<description>backup</description>
+      <Point><coordinates>-0.098523752569231,5.580899772734359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+	<description>backup</description>
+      <Point><coordinates>-0.099488655141539,5.57918439038359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<description>backup</description>
+      <Point><coordinates>-0.100203397787692,5.579839571142564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<description>backup</description>
+      <Point><coordinates>-0.100096186390769,5.579756184500513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<description>backup</description>
+      <Point><coordinates>-0.102383362858461,5.577290322371282</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

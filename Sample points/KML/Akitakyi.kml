@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Akitakyi" id="Akitakyi">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>Akitakyi</name>
+  <Placemark>
+	<name>1</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.108439185</SimpleData>
+		<SimpleData name="Latitude">4.781800773</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.108439185,4.781800773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.105937139</SimpleData>
+		<SimpleData name="Latitude">4.780153562</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.105937139,4.780153562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.107908929</SimpleData>
+		<SimpleData name="Latitude">4.781132194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.107908929,4.781132194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.108436088</SimpleData>
+		<SimpleData name="Latitude">4.782287023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.108436088,4.782287023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.10724513</SimpleData>
+		<SimpleData name="Latitude">4.78109076</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.10724513,4.78109076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.107624232</SimpleData>
+		<SimpleData name="Latitude">4.780827114</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.107624232,4.780827114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.108886429</SimpleData>
+		<SimpleData name="Latitude">4.785438163</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.108886429,4.785438163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.108512733</SimpleData>
+		<SimpleData name="Latitude">4.781907068</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.108512733,4.781907068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.110516952</SimpleData>
+		<SimpleData name="Latitude">4.783449497</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.110516952,4.783449497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.110177772</SimpleData>
+		<SimpleData name="Latitude">4.78400549</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.110177772,4.78400549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.10629173</SimpleData>
+		<SimpleData name="Latitude">4.780310354</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.10629173,4.780310354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.108546298</SimpleData>
+		<SimpleData name="Latitude">4.782176566</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.108546298,4.782176566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.108662967</SimpleData>
+		<SimpleData name="Latitude">4.785598245</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.108662967,4.785598245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.106589533</SimpleData>
+		<SimpleData name="Latitude">4.780146013</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.106589533,4.780146013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.10885442</SimpleData>
+		<SimpleData name="Latitude">4.785676947</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.10885442,4.785676947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.110582516</SimpleData>
+		<SimpleData name="Latitude">4.784870753</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.110582516,4.784870753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.106688491</SimpleData>
+		<SimpleData name="Latitude">4.781503904</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.106688491,4.781503904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.108196411</SimpleData>
+		<SimpleData name="Latitude">4.781558468</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.108196411,4.781558468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.109118548</SimpleData>
+		<SimpleData name="Latitude">4.78480116</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.109118548,4.78480116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.108204226</SimpleData>
+		<SimpleData name="Latitude">4.782933066</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.108204226,4.782933066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.10799185</SimpleData>
+		<SimpleData name="Latitude">4.782622583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.10799185,4.782622583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.106881542</SimpleData>
+		<SimpleData name="Latitude">4.780809785</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.106881542,4.780809785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.106527951</SimpleData>
+		<SimpleData name="Latitude">4.779487203</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.106527951,4.779487203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.10904326</SimpleData>
+		<SimpleData name="Latitude">4.78500065</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.10904326,4.78500065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.107077132</SimpleData>
+		<SimpleData name="Latitude">4.782317862</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.107077132,4.782317862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.110588361</SimpleData>
+		<SimpleData name="Latitude">4.783823754</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.110588361,4.783823754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.107076053</SimpleData>
+		<SimpleData name="Latitude">4.780877734</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.107076053,4.780877734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.105794568</SimpleData>
+		<SimpleData name="Latitude">4.780251331</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.105794568,4.780251331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.110724222</SimpleData>
+		<SimpleData name="Latitude">4.784045638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.110724222,4.784045638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.109774937</SimpleData>
+		<SimpleData name="Latitude">4.783593371</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.109774937,4.783593371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.108835523</SimpleData>
+		<SimpleData name="Latitude">4.783589319</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.108835523,4.783589319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.10794948</SimpleData>
+		<SimpleData name="Latitude">4.781305646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.10794948,4.781305646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.108210211</SimpleData>
+		<SimpleData name="Latitude">4.782836546</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.108210211,4.782836546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.106598468</SimpleData>
+		<SimpleData name="Latitude">4.779575495</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.106598468,4.779575495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.109789389</SimpleData>
+		<SimpleData name="Latitude">4.784768189</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.109789389,4.784768189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.109595837</SimpleData>
+		<SimpleData name="Latitude">4.784898635</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.109595837,4.784898635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.108589804</SimpleData>
+		<SimpleData name="Latitude">4.785261458</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.108589804,4.785261458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.107523785</SimpleData>
+		<SimpleData name="Latitude">4.780813159</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.107523785,4.780813159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.106204254</SimpleData>
+		<SimpleData name="Latitude">4.780225627</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.106204254,4.780225627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40</name>
+	<description>backup</description>
+	<ExtendedData><SchemaData schemaUrl="#Akitakyi">
+		<SimpleData name="Longitude">-2.107371473</SimpleData>
+		<SimpleData name="Latitude">4.782199587</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.107371473,4.782199587</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
