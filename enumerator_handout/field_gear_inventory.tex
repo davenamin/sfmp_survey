@@ -1,0 +1,64 @@
+\documentclass[a4paper,11pt]{article}
+%http://tex.stackexchange.com/questions/58752/how-do-i-generate-a-check-list
+\usepackage{wasysym}     
+
+\setlength{\marginparwidth}{1.2in}
+\let\oldmarginpar\marginpar
+\renewcommand\marginpar[1]{\-\oldmarginpar[\raggedleft #1]%
+{\raggedright #1}}    
+
+\newenvironment{checklist}{%
+  \begin{list}{}{}% whatever you want the list to be
+  \let\olditem\item
+  \renewcommand\item{\olditem -- \marginpar{$\Box$} }
+  \newcommand\checkeditem{\olditem -- \marginpar{$\CheckedBox$} }
+}{%
+  \end{list}
+}   
+
+%open http://tex.stackexchange.com/questions/35942/how-to-create-a-signature-date-page
+\newcommand{\namesigdate}[2][5cm]{%
+  \begin{tabular}{@{}p{#1}@{}}
+    #2 \\[2\normalbaselineskip] \hrule \\[0pt]
+    {\small \textit{Name}} \\[2\normalbaselineskip] \hrule
+    \\[0pt]
+    {\small \textit{Signature}} \\[2\normalbaselineskip] \hrule \\[0pt]
+
+    {\small \textit{Date}}
+  \end{tabular}
+}
+
+\begin{document}
+\title{SFMP Baseline Enumerator Field Equipment}
+\date{}
+\maketitle
+\section{Equipment}
+\begin{checklist}
+  \item   Umbrella (1)
+  \item   Poncho (1)
+  \item   Ink Pad (1)
+  \item   Flashlight (1)
+  \item   SAMSUNG Galaxy Note Pro 12.2 (1)
+  \item   SAMSUNG Galaxy Note Pro USB Cable (1)
+  \item   SAMSUNG Galaxy Note Pro British Charger (1)
+  \item   SAMSUNG Galaxy Note Pro Tablet Cover
+  \item   Clipboard (1)
+  \item   SAMSUNG 8400mAh Universal Battery (1)
+  \item   Phone Charger for Universal Battery (1)
+  \item   Enumerator Manual
+  \item   CaseLogic Backpack
+\end{checklist}
+
+\section{Expendables}
+\begin{checklist}
+  \item   Field Notebook (1)
+  \item   SFMP Folder and Literature (1)
+  \item   Pen (1)
+  \item   D cell batteries (2)
+  \item   Sticky Note pad (1)
+  \item   Sheet of Enumerator and Supervisor Contact Info (1)
+\end{checklist}
+
+\noindent \namesigdate{Enumerator} \hfill \namesigdate{SFMP Representative}
+
+\end{document}

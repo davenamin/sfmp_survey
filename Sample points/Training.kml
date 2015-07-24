@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Training" id="Training">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>Training</name>
+  <Placemark>
+	<name>1</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Training">
+		<SimpleData name="Longitude">-0.156179</SimpleData>
+		<SimpleData name="Latitude">5.652104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.156179,5.652104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Training">
+		<SimpleData name="Longitude">-0.161522</SimpleData>
+		<SimpleData name="Latitude">5.649317</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.161522,5.649317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<description>sample</description>
+	<ExtendedData><SchemaData schemaUrl="#Training">
+		<SimpleData name="Longitude">-0.162525</SimpleData>
+		<SimpleData name="Latitude">5.649713</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.162525,5.649713</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

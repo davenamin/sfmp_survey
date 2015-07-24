@@ -1,0 +1,4 @@
+OID_	Longitude	Latitude	Type
+1	-0.156179	5.652104	sample
+2	-0.161522	5.649317	sample
+3	-0.162525	5.649713	sample
