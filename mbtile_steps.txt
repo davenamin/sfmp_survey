@@ -1,0 +1,1 @@
+use http://fulcrumapp.com/blog/working-with-geotiffs-for-offline-maps/ for steps I followed to get the TIFFs from Justice into mbtile format for the android MapBox app

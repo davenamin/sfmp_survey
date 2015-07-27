@@ -1,0 +1,52 @@
+\documentclass[a4paper,agenda,20pt]{extarticle}
+\usepackage{graphicx,array,tabularx,verbatim}
+% http://tex.stackexchange.com/questions/124836/full-width-table-with-caption-in-refman-doc
+\newenvironment{fulltable}[1][tbp]
+ {\begin{table}[#1]%
+  \hspace*{-\leftmarginwidth}%
+  \begin{minipage}{\fullwidth}}
+ {\end{minipage}\end{table}}
+
+\begin{document}
+\title{SFMP Baseline Survey Enumerator Contacts}
+
+
+\begin{tabularx}{\textwidth}{| l | X | X |} \hline
+Enum. Id & Name  & Telephone Number \\ \hline \hline
+01 &
+Bakari Hardi Nyari &
+026 603 1883 \\ \hline
+
+02 &
+Yaw Amo Sarpong &
+024 425 8146 or 020 834 6530 \\ \hline
+
+03 &
+Daven Amin &
+020 699 8246 \\ \hline
+
+04 & 
+Damiana Etsey &
+026 717 2133 \\ \hline
+
+05 & 
+Richard Nii Adjei Otchwemah &
+024 459 2108 or 020 300 7204 \\ \hline
+
+06 & 
+Atsyo Yaw Sena &
+020 706 0502 \\ \hline
+
+07 & 
+Mac-Issaka Billa &
+024 398 4820 \\ \hline
+
+08 &
+Nana Safoa Martinson &
+020 665 0120 \\ \hline
+
+
+\end{tabularx}
+
+
+\end{document}
