@@ -38,7 +38,7 @@ The following examples can be helpful to put persons found in a house or compoun
 \end{enumerate}
 
 \subsection{Household Identification (A)}
-\textbf{This section is filled out for every respondent. These questions are designed to be filled out through enumerator observation and simple inquiries.}
+\textbf{This section is filled out for every respondent. These questions are designed to be filled out through enumerator observation and simple inquiries, before consent is sought}
 
 
 \begin{description}
@@ -56,15 +56,10 @@ The following examples can be helpful to put persons found in a house or compoun
 \item Cross out the number you just used. The next time you need to use this column in the random number booklet, the number below the one you just crossed will be the top-most available number.
 \end{itemize}
 
-%\item[A 1.07 Type of Household]
-
-%\item[A 1.08 Main Religion of Household]
-
-\item[A 1.09 GPS Coordinates] Populate the fields using the tablet's GPS by clicking the icon shown below. If the accuracy field is above 100m, re-populate the fields by pressing the button again. The accuracy can be improved by doing this in view of the sky outside of the structure.
+\item[A 1.07 GPS Coordinates] Populate the fields using the tablet's GPS by clicking the icon shown below. If the accuracy field is above 100m, re-populate the fields by pressing the button again. The accuracy can be improved by doing this in view of the sky outside of the structure.
 
 \includegraphics[width=\textwidth]{enketo2.png}
 
-%\item[A 1.10 Main Ethnic Group]
 
 \end{description}
 
@@ -75,16 +70,31 @@ If the respondent does not consent to the interview, mark this on the survey for
 
 \includegraphics[width=\textwidth]{consent.png}
 
-If the respondent consents to the interview, record their name in the text field. If the respondent has a mobile number which they may be reached at, record it in the next text field.
+If the respondent consents to the interview, record their name in the text field. If the respondent has a mobile number which they may be reached at, record it in the next text field, and record some notes to help future enumerators find this location from the GPS point in the final text field.
+
+
+
+\subsection{Material Style of Life (B)}
+\textbf{This section will be skipped if it's already been filled out for the previous respondent (of the same household) based on the answer to the first question.}
+
+The respondent should be the person who is most knowledgeable about the dwelling characteristics and its ownership arrangement in the household.
+
+Definitions
+\textit{Dwelling:} This includes all types of structures occupied by members of a household. These may consist of a house, a room inside a house, a group of houses, a multi-storeyed house, and a hut or group of huts.
+
+\begin{description}
+\item[B 1.01-04] You are to observe the house or the structure and record your observation. Even when the interview is conducted in a place outside of the household dwelling, the enumerator should visit the dwelling to make these observations. However, if the interview is conducted outside of the dwelling and there is no chance to observe the floor material, then this could be asked. Where different portions of the dwelling are constructed of different types of materials, the enumerator should record the dominant material for each of the questions.
+\item[B 1.05-08] These questions ask about the utilities and amenities of the household. Access to electricity is irrespective of the source so far as there is power: whether connected to the national grid, powered by a generator or relies on solar panel power generation. However, a wired house with non-connected or disconnected power source should not be recorded as having access to electricity. Regarding the main source of cooking fuel for the household: select OTHER in the case where no cooking is done in the household.
+\end{description}
 
 
 \subsection{Household Demographics (B)}
 \textbf{These questions are administered for all respondents and are targeted towards the specific individual being interviewed. Remember to note the respondent's age in COMPLETED years (i.e., their age at their last birthday)}
 
 \begin{description}
-\item[B 1.01 Role in household] Head of Household refers to the person who the majority of the household acknowledge as responsible for household-wide decisions. This is often the male in households containing a husband and wife. The Gender Opposite Seniormost Household Member is the OPPOSITE gender as the Head of Household (i.e. if the Head of Household is a MALE, this must be a FEMALE in the household) and refers to the person who is the closest counterpart to the Head of Household (regarding household-wide decisionmaking). This could be the spouse of the Head of Household, an elder figure in the household, or one of the oldest children.
+\item[B 2.01 Role in household] Head of Household refers to the person who the majority of the household acknowledge as responsible for household-wide decisions. This is often the male in households containing a husband and wife. The Gender Opposite Seniormost Household Member is the OPPOSITE gender as the Head of Household (i.e. if the Head of Household is a MALE, this must be a FEMALE in the household) and refers to the person who is the closest counterpart to the Head of Household (regarding household-wide decisionmaking). This could be the spouse of the Head of Household, an elder figure in the household, or one of the oldest children.
 
-\item[B 1.06 Attended school] School refers to formal schooling or attendance of either a Primary, Middle/JSS, Secondary school, Vocational/Technical, Professional school or Training, Polytechnic, or a University. Attendance at a Koranic school, for no matter how many years, is not to be included.
+\item[B 2.06 Attended school] School refers to formal schooling or attendance of either a Primary, Middle/JSS, Secondary school, Vocational/Technical, Professional school or Training, Polytechnic, or a University. Attendance at a Koranic school, for no matter how many years, is not to be included.
 
 \item[B 1.06A Highest qualification] The ``highest qualification of education completed'' means the highest level of formal schooling completed. If someone dropped out of school at a level it means he/she has not completed that level and so it should not be recorded as the highest. For instance, a drop out from secondary school form three during the second term will have his/her highest educational level completed to be probably the MSLC/JHS level since he could not finish the secondary school.
 
@@ -128,7 +138,6 @@ If the respondent consents to the interview, record their name in the text field
 \end{description}
 
 \subsection{Household Hunger Scale (D)}
-\textbf{This section will only appear if the respondent was marked as ``Head of Household'' in the Household Demographics section.}
 
 D 1.01 asks whether over the past 4 weeks, there ever was no food to eat of any kind in the house because of lack of resources to get food. It is important to note that this is different from somebody skipping a meal due to illness, lack of taste, etc. It refers to one, some or all members of the household skipping or failing to get food to eat due to insufficiency or unavailability. The reference period is the past 4 weeks prior to this interview.
 
@@ -165,20 +174,7 @@ Whilst woman tells you of the foods that she ate the whole day and night, mark e
 
 \textbf{Note: The reference period to all these questions is YESTERDAY}
 
-\subsection{Dwelling Characteristics (F)}
-\textbf{This section will only appear if the respondent was marked as ``Head of Household'' in the Household Demographics section.}
-
-The respondent should be the person who is most knowledgeable about the dwelling characteristics and its ownership arrangement in the household.
-
-Definitions
-\textit{Dwelling:} This includes all types of structures occupied by members of a household. These may consist of a house, a room inside a house, a group of houses, a multi-storeyed house, and a hut or group of huts.
-
-\begin{description}
-\item[F 1.01-04] You are to observe the house or the structure and record your observation. Even when the interview is conducted in a place outside of the household dwelling, the enumerator should visit the dwelling to make these observations. However, if the interview is conducted outside of the dwelling and there is no chance to observe the floor material, then this could be asked. Where different portions of the dwelling are constructed of different types of materials, the enumerator should record the dominant material for each of the questions.
-\item[F 1.05-08] These questions ask about the utilities and amenities of the household. Access to electricity is irrespective of the source so far as there is power: whether connected to the national grid, powered by a generator or relies on solar panel power generation. However, a wired house with non-connected or disconnected power source should not be recorded as having access to electricity. Regarding the main source of cooking fuel for the household: select OTHER in the case where no cooking is done in the household.
-\end{description}
-
-\subsection{Women's Empowerment in Agriculture Index (modified) (G)}
+\subsection{Empowerment in Agriculture Index (modified) (G)}
 \textbf{This section is administered to all respondents, not just women.}
 
 This module should be conducted strictly under private, where other members of the household cannot overhear or contribute answers. Do not attempt to make responses between a primary and secondary respondent the same. Ensure that you code the outcome of the interview at the end of interview for each target respondent.
